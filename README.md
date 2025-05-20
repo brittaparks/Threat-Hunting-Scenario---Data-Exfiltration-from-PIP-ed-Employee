@@ -1,0 +1,1 @@
+# Threat-Hunting-Scenario---Data-Exfiltration-from-PIP-ed-Employee
